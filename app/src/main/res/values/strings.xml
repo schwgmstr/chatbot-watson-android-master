@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MURSHID</string>
+    <string name="what_s_on_your_mind">Ask me anything!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about2">AboutActivity2</string>
+</resources>
